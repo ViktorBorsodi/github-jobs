@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-jobs/static/css/main.4f0d80e1.chunk.css",
+    "main.js": "/github-jobs/static/js/main.ce9c1d66.chunk.js",
+    "main.js.map": "/github-jobs/static/js/main.ce9c1d66.chunk.js.map",
+    "runtime-main.js": "/github-jobs/static/js/runtime-main.ef5e73cd.js",
+    "runtime-main.js.map": "/github-jobs/static/js/runtime-main.ef5e73cd.js.map",
+    "static/js/2.672f7214.chunk.js": "/github-jobs/static/js/2.672f7214.chunk.js",
+    "static/js/2.672f7214.chunk.js.map": "/github-jobs/static/js/2.672f7214.chunk.js.map",
+    "index.html": "/github-jobs/index.html",
+    "precache-manifest.329a00e2c524a001d77feeaecf51f3d7.js": "/github-jobs/precache-manifest.329a00e2c524a001d77feeaecf51f3d7.js",
+    "service-worker.js": "/github-jobs/service-worker.js",
+    "static/css/main.4f0d80e1.chunk.css.map": "/github-jobs/static/css/main.4f0d80e1.chunk.css.map",
+    "static/media/back.svg": "/github-jobs/static/media/back.6c9efe0c.svg",
+    "static/media/next.svg": "/github-jobs/static/media/next.be237328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5e73cd.js",
+    "static/js/2.672f7214.chunk.js",
+    "static/css/main.4f0d80e1.chunk.css",
+    "static/js/main.ce9c1d66.chunk.js"
+  ]
+}
