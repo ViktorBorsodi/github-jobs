@@ -1,0 +1,14 @@
+.arrows {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.arrows .img-container {
+    flex-basis: 50px;
+}
+  
+.arrows img {
+    width: 100%;
+    cursor: pointer;
+    transition: .2s;
+}

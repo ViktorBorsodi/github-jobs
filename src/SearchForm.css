@@ -1,0 +1,49 @@
+form {
+    width: 400px;
+    max-width: 80%;
+    margin: 40px auto;
+    border: 1px solid black;
+    padding: 20px 40px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, .5);
+}
+
+form label, form input, form button {
+    display: block;
+    font-size: 20px;
+}
+
+form label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+form input {
+    border-radius: 15px;
+    border: 1px solid black;
+    outline: none;
+    padding: 5px 10px;
+    width: 100%;
+}
+
+form button {
+    margin: 40px auto;
+    color: white;
+    background-color: #53a507;
+    padding: 10px 40px;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition: .2s;
+}
+
+form button:hover {
+    transform: translateY(-0.3rem);
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2)
+}
+
+form button:active {
+    transform: translateY(-1px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+}
